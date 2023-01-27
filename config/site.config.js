@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/Private'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:admin@addrive.org',
+  email: 'mailto:admin@addrive.tech',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
